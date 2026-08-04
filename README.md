@@ -1,4 +1,4 @@
-﻿#  Python- do Básico ao Avançado
+﻿#  Python - do Básico ao Avançado
 
 Repositório pessoal de estudos e exercícios do curso:
 
